@@ -1,0 +1,5 @@
+C:\Visual Studio 2008\Projects\SQLCLRDoor\SQLCLRDoor\bin\Release\SQLCLRDoor.dll
+C:\Visual Studio 2008\Projects\SQLCLRDoor\SQLCLRDoor\bin\Release\SQLCLRDoor.pdb
+C:\Visual Studio 2008\Projects\SQLCLRDoor\SQLCLRDoor\obj\Release\ResolveAssemblyReference.cache
+C:\Visual Studio 2008\Projects\SQLCLRDoor\SQLCLRDoor\obj\Release\SQLCLRDoor.dll
+C:\Visual Studio 2008\Projects\SQLCLRDoor\SQLCLRDoor\obj\Release\SQLCLRDoor.pdb
